@@ -1,0 +1,29 @@
+{
+  "input_file": "C:\\Users\\rs2672\\Desktop\\YOLO-SAM_automaticAnnotation\\NYvalid\\NY_Apple_Predicted_vs_Real.xlsx",
+  "input_sha256": "de2238833e595a732b2849930f9a47096713597aaf73065bc3d98971336e00da",
+  "python": "3.12.7",
+  "numpy": "1.26.4",
+  "pandas": "2.1.4",
+  "scipy": "1.13.1",
+  "matplotlib": "3.8.4",
+  "font_used": "Arial",
+  "dpi": 600,
+  "formats": [
+    "png",
+    "pdf",
+    "svg"
+  ],
+  "labels": {
+    "rgb_videoblock70": "Rootbag Porter's Perfection",
+    "rgb_videoblock_70": "Rootbag Porter's Perfection",
+    "rgb_videoFuji2016": "Fuji",
+    "rgb_vodepFuji2016": "Fuji",
+    "rgb_videohoneycrisp": "Honeycrisp",
+    "rgb_videosnapdragon": "Snapdragon",
+    "rgb_videospijon": "Spijon-pomiferous"
+  },
+  "n_images": 919,
+  "review_flag_count": 1,
+  "exclusions": 0,
+  "analysis_unit": "image; adjacent video frames may be correlated"
+}
