@@ -40,6 +40,9 @@ The study investigates:
 The original field evaluation uses 42 real images from a commercial Scifresh apple orchard in Prosser, Washington, USA.
 
 Images were acquired using a Microsoft Azure Kinect DK machine-vision camera. This evaluation assesses box- and mask-level performance against reference annotations.
+Please access the data and model from the link : "https://drive.google.com/drive/folders/1YQmti-aiiaITotCdvD9E_iZsFmV-U6zM?usp=sharing"
+
+Additionally, Labelled datasets for training (LLM Generated) and Validation (Nikon and Microsoft Azure) from link :"https://drive.google.com/drive/folders/1KHhV0KWyL6ZKaywbbCvHLgDWcgDKaiYK"
 
 ### New York: Additional Counting Evaluation
 
@@ -55,6 +58,8 @@ The additional evaluation includes 919 RGB images from Cornell orchards in New Y
 | **Total** | | **919** |
 
 These are the supplied cultivar/accession labels; botanical species names are not inferred from folder names.
+
+Please access all images of 5 varieties at NY from: https://drive.google.com/drive/folders/1snI73F4_qatcQ7MskDNz31xer9BtRsoD?usp=sharing 
 
 The New York evaluation measures **per-image counting agreement**. Neighboring frames may contain repeated views of the same apples, so summed counts are not unique tree or orchard fruit totals.
 
